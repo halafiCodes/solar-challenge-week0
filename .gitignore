@@ -1,8 +1,8 @@
-# Jupyter Notebook
+
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Python cache and virtual env
+
 __pycache__/
 *.pyc
 *.pyo
@@ -12,11 +12,11 @@ venv/
 ENV/
 env/
 
-# OS files
+
 .DS_Store
 Thumbs.db
 
-# Data folders (to keep repo lightweight)
+
 data/
 raw/
 *.csv
