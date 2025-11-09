@@ -1,8 +1,7 @@
-# Solar Challenge Week 0
+## Solar Challenge — Country Comparison
 
-## 📦 Environment Setup
+#This repository focuses on analyzing and comparing solar energy data across multiple countries.  
+#Each country’s dataset is cleaned and analyzed individually before being combined for a cross-country comparison in the *comparison-#countries** branch.
 
-1. Clone the repo:
-```bash
-git clone https://github.com/<your-username>/solar-challenge-week0.git
-cd solar-challenge-week0
+
+
