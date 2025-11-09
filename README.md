@@ -1,7 +1,9 @@
-# Solar Challenge — Country Comparison
-
-This repository focuses on analyzing and comparing solar energy data across multiple countries.  
-Each country’s dataset is cleaned and analyzed individually before being combined for a cross-country comparison in the *comparison-countries** branch.
-
-
+# 🇸🇱 Sierra Leone — Solar Challenge EDA
+This branch (`eda-sierra_leone`) contains the data profiling, cleaning, and exploratory data analysis (EDA) for Sierra Leone’s solar dataset.  
+The goal is to clean and analyze Sierra Leone’s solar data so it’s ready for integration into the comparison-countries branch.
+## 📊 Objective
+- Explore and understand Sierra Leone’s solar dataset  
+- Detect and fix missing or inconsistent values  
+- Perform exploratory data analysis (EDA) using visualizations  
+- Save the cleaned dataset for cross-country comparison
 
