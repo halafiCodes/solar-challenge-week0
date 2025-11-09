@@ -1,6 +1,7 @@
-# ☀️Solar Challenge — Week 0 Setup
+# Solar Challenge — Country Comparison
 
-This is the  setup_task branch for the Solar Challenge project.  
-It contains the base environment configuration, GitHub workflow setup, and project folder structure that all other country EDA branches build upon.
+This repository focuses on analyzing and comparing solar energy data across multiple countries.  
+Each country’s dataset is cleaned and analyzed individually before being combined for a cross-country comparison in the *comparison-countries** branch.
+
 
 
