@@ -1,9 +1,13 @@
-# 🇸🇱 Sierra Leone — Solar Challenge EDA
-This branch (`eda-sierra_leone`) contains the data profiling, cleaning, and exploratory data analysis (EDA) for Sierra Leone’s solar dataset.  
-The goal is to clean and analyze Sierra Leone’s solar data so it’s ready for integration into the comparison-countries branch.
+# 🇹🇬 Togo — Solar Challenge EDA
+This branch (`eda-togo`) contains the data profiling, cleaning, and exploratory data analysis (EDA) for Togo’s solar dataset.  
+The goal is to prepare Togo’s cleaned data for integration and comparison in the **comparison-countries** branch.
 ## 📊 Objective
-- Explore and understand Sierra Leone’s solar dataset  
-- Detect and fix missing or inconsistent values  
-- Perform exploratory data analysis (EDA) using visualizations  
-- Save the cleaned dataset for cross-country comparison
+
+- Analyze and clean Togo’s solar energy dataset  
+- Detect missing or invalid records  
+- Generate visual insights for GHI, DNI, and DHI  
+- Export a cleaned dataset ready for regional comparison  
+
+
+
 
