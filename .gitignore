@@ -1,31 +1,12 @@
-# Jupyter Notebook
-.ipynb_checkpoints/
-*.ipynb_checkpoints
 
-# Python cache and virtual env
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.venv/
-venv/
-ENV/
-env/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Data folders (to keep repo lightweight)
 data/
 raw/
 *.csv
 
-# Logs and temporary files
-*.log
-*.tmp
-*.bak
 
-# IDE settings
-.vscode/
-.idea/
+.ipynb_checkpoints/
+
+
+venv/
+__pycache__/
+*.pyc
