@@ -1,8 +1,6 @@
-# Solar Challenge Week 0
+# ☀️Solar Challenge — Week 0 Setup
 
-## 📦 Environment Setup
+This is the default (setup_task) branch for the Solar Challenge project.  
+It contains the base environment configuration, GitHub workflow setup, and project folder structure that all other country EDA branches build upon.
 
-1. Clone the repo:
-```bash
-git clone https://github.com/<your-username>/solar-challenge-week0.git
-cd solar-challenge-week0
+
