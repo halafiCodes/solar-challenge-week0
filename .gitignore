@@ -1,31 +1,12 @@
 
-.ipynb_checkpoints/
-*.ipynb_checkpoints
-
-
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.venv/
-venv/
-ENV/
-env/
-
-
-.DS_Store
-Thumbs.db
-
-
 data/
 raw/
 *.csv
 
-# Logs and temporary files
-*.log
-*.tmp
-*.bak
 
-# IDE settings
-.vscode/
-.idea/
+.ipynb_checkpoints/
+
+
+venv/
+__pycache__/
+*.pyc
