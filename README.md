@@ -1,3 +1,6 @@
+## Dashboard Screenshots
+
+[View Dashboard Screenshots PDF](app/dashboard_screenshots/dashboard_home_images.pdf)
 # 🇹🇬 Togo — Solar Challenge EDA
 This branch (`eda-togo`) contains the data profiling, cleaning, and exploratory data analysis (EDA) for Togo’s solar dataset.  
 The goal is to prepare Togo’s cleaned data for integration and comparison in the **comparison-countries** branch.
