@@ -5,5 +5,5 @@
 ## Live Dashboard
 
 Check the deployed dashboard here:  
-[Dashboard Link](https://your-app-url.streamlit.app)
+[Dashboard Link](https://cs50project0-wyjqxyakntqq9y4xaqzy6n.streamlit.app/)
 
